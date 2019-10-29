@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-sum(1,2,3)
+sum(1,2,4)
 
 show
 ```
